@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Qasatik
-- 👀 I’m interested in Cryptocurrencys
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
-- 📫 You can reachme on tg @ebrotetogocasino
+- 📫 You can reachme on tg @qdevelop
 
 <!---
 Qasatik/Qasatik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
